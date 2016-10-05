@@ -1,0 +1,35 @@
+commit 0c6726c01d03cb38eeaf6d2b942715230d8f8b2f
+Author: Misael <misael.obeso119@gmai.com>
+Date:   Tue Oct 4 11:41:42 2016 -0600
+
+    Comandos agregados a la tabla
+
+commit ee0b2dc2c5f807e35e6d2c506a20ded283cbc9bf
+Author: Misael <misael.obeso119@gmai.com>
+Date:   Tue Oct 4 11:37:40 2016 -0600
+
+    Footer
+
+commit 7b33423cbc5b0721c6c1edb1ecf558885a514919
+Author: Misael <misael.obeso119@gmai.com>
+Date:   Tue Oct 4 11:36:30 2016 -0600
+
+    Agregada imagen
+
+commit 4ae311bb1d5b8d6fc36a51127cef17331bc0fbe3
+Author: Misael <misael.obeso119@gmai.com>
+Date:   Tue Oct 4 11:30:10 2016 -0600
+
+    Agregada tabla de comandos
+
+commit 1828706027bdf179661edf85d7e3e0916a1146fe
+Author: Misael <misael.obeso119@gmai.com>
+Date:   Mon Oct 3 11:52:04 2016 -0600
+
+    Integracion de bootstrap
+
+commit da817960180e57c7e089100b5bac50d00756446a
+Author: Misael <misael.obeso119@gmai.com>
+Date:   Mon Oct 3 11:46:40 2016 -0600
+
+    Estructura inicial
